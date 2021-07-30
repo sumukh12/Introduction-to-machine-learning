@@ -1,1 +1,1 @@
-# Introduction-to-machine-learning
+# Introduction-to-machine-learning,Machine Learning algorithm can be used for identifying the factor that influence the Key Performance indicator,which can be futher used for decision making and value creation.Organization such as Amazon,Apple,Capital One,General Eletric,Google,IBM,Facebook,Procter,Gamble and so on use Machine Learning algorithms to create new products and solution.ML can can create significant value for organization if used properly.
